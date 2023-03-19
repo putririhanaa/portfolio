@@ -2,13 +2,11 @@
 ---
 ## GUI Python for Exponential Smoothing
 
-https://github.com/putririhanaa/guipython.git
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/putririhanaa/guipython.git)
 
-*Exponential Smoothing:** 
+**Exponential Smoothing:** 
 <div style="text-align: justify"> Exponential Smoothing is a time series method for forecasting univariate time series data. Time series methods work on the principle that a prediction is a weighted linear sum of past observations or lags. The Exponential Smoothing time series method works by assigning exponentially decreasing weights for past observations. It is called so because the weight assigned to each demand observation is exponentially decreased. These GUI tools can be helpful for exploring your data and understanding the results of Exponential Smoothing.</div>
 
-<center><img src="images/nlp.png"/></center>
 
 ---
 ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
