@@ -13,7 +13,7 @@ window = tk.Tk()
 window.configure(bg="steel blue") #mengubah warna background GUI
 window.geometry("800x1000") #mengubah size tampilan ketika di run
 window.resizable(width=False, height=False)
-window.title("UAS KOMSTAT LANJUT_Putri Rihana Dewi_24050120130120") #memberi judul pada bar
+window.title("Exponential Smoothing") #memberi judul pada bar
 
 #memberi label pada GUI
 labelJudul=tk.Label(window, text="Menghitung Nilai Peramalan Menggunakan Single Exponential Smoothing",font=('helvetica',12,'bold'))
