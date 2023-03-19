@@ -5,6 +5,8 @@
 
 <div style="text-align: justify">Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy. With the help of data visualization, we can see how the data looks like and what kind of correlation is held by the attributes of data. It is the fastest way to see if the features correspond to the output. </div>
 
+<center><img src="images/machinelearning0.png"/></center>
+
 ---
 ## GUI Python for Exponential Smoothing
 
