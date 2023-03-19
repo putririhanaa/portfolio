@@ -7,6 +7,9 @@
 **Exponential Smoothing:** 
 <div style="text-align: justify"> Exponential Smoothing is a time series method for forecasting univariate time series data. Time series methods work on the principle that a prediction is a weighted linear sum of past observations or lags. The Exponential Smoothing time series method works by assigning exponentially decreasing weights for past observations. It is called so because the weight assigned to each demand observation is exponentially decreased. These GUI tools can be helpful for exploring your data and understanding the results of Exponential Smoothing.</div>
 
+<br>
+<center><img src="images/exponentialsmoothing.png"/></center>
+<br>
 
 ---
 ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
