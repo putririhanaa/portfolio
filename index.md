@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Dashboard - Looker Studio Project 
-Data: COVID-19 Week 5 Global Dataset 
+**Data: COVID-19 Week 5 Global Dataset **
 <br>
 View in Looker Studio - [COVID-19 Week 5 Global Dashboard](https://lookerstudio.google.com/reporting/6afcc4b6-6558-4a70-ba96-eb3f29c31d79)
 
@@ -26,24 +26,21 @@ View in Looker Studio - [COVID-19 Week 5 Global Dashboard](https://lookerstudio.
 
 ---
 ## Data Analytics with Python 
+
 ### Regression and Cluster Modeling
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/10Z6DojAHyRqnBLNAlQgQD0-56Ufv66VN?usp=sharing)
 
-<div style="text-align: justify"> 
-1. Regression
+**Regression**<br>
 <div style="text-align: justify">Regression is a statistical method that attempts to determine the strength and character of the relationship between dependent variable (usually denoted by Y) and a series of other variables (known as independent variables). Using House Prices - Advanced Regression Techniques Dataset, regression modeling is carried out with the following steps:</div>
 <div style="text-align: justify">
 1. Exploratory Data Analysis.<br>
 2. Split the dataset into two parts, train and test data.<br>
 3. Create a predictive model with linear regression using train data.<br>
-4. Evaluate the predictive model that are made using R-Squared, Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and Mean Absolute Percentage Error (MAPE).<br>
+4. Evaluate the predictive model that are made using R-Squared, Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and Mean Absolute Percentage Error (MAPE).</div>
 
-<br>
 <center><img src="images/reg.png"/></center>
   
-<div style="text-align: justify">
-<br>
-2. Cluster using K-Means CLustering<br>
+**Cluster using K-Means CLustering**<br>
 <div style="text-align: justify">K-Means Clustering is an iterative algorithm that tries to partition the dataset into Kpre-defined distinct non-overlapping subgroups (clusters) where each data point belongs to only one group. Using Mall Customers Dataset, clustering is carried out with the following steps:</div>
 <div style="text-align: justify">
 1. Exploratory Data Analysis.<br>
@@ -51,9 +48,8 @@ View in Looker Studio - [COVID-19 Week 5 Global Dashboard](https://lookerstudio.
 3. Perform clustering.<br>
 4. Evaluate the cluster that are made using silhouette coefficient, calinski-harabasz index, dan davies-bouldin index.</div>
 
-<br>
 <center><img src="images/clust.png"/></center>
-
+  
 ### Exploratory Data Analysis
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1dsomiD3v92Lq45f4AuxWEu0e_znIVUt2?usp=sharing)
 
@@ -130,7 +126,6 @@ The steps to Use the Exponential Smoothing GUI<br>
 
 <br>
 <center><img src="images/exponentialsmoothing1.png"/></center>
-<br>
 <center><img src="images/exponentialsmoothing.png"/></center>
 <br>
 
