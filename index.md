@@ -55,22 +55,22 @@ The steps that were taken in data cleansing included: <br>
 ### Regression and Cluster Modeling
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/10Z6DojAHyRqnBLNAlQgQD0-56Ufv66VN?usp=sharing)
 
-<div style="text-align: justify"><br>
 1. Regression<br>
 <div style="text-align: justify">Regression is a statistical method that attempts to determine the strength and character of the relationship between dependent variable (usually denoted by Y) and a series of other variables (known as independent variables). Using House Prices - Advanced Regression Techniques Dataset, regression modeling is carried out with the following steps:</div>
 1. Exploratory Data Analysis.<br>
 2. Split the dataset into two parts, train and test data.<br>
 3. Create a predictive model with linear regression using train data.<br>
 4. Evaluate the predictive model that are made using R-Squared, Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and Mean Absolute Percentage Error (MAPE).<br>
+  
 <center><img src="images/reg.png"/></center>
   
-<div style="text-align: justify"><br>
 2. Cluster using K-Means CLustering<br>
 <div style="text-align: justify">K-Means Clustering is an iterative algorithm that tries to partition the dataset into Kpre-defined distinct non-overlapping subgroups (clusters) where each data point belongs to only one group. Using Mall Customers Dataset, clustering is carried out with the following steps:</div>
 1. Exploratory Data Analysis.<br>
 2. Determining the number of clusters with Elbow method and Silhouette method.<br>
 3. Perform clustering.<br>
-4. Evaluate the cluster that are made using silhouette coefficient, calinski-harabasz index, dan davies-bouldin index.<br>
+4. Evaluate the cluster that are made using silhouette coefficient, calinski-harabasz index, dan davies-bouldin index.</div>
+  
 <center><img src="images/clust.png"/></center>
 
 ---
