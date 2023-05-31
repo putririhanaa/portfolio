@@ -31,7 +31,6 @@ View in Looker Studio - [COVID-19 Week 5 Global Dashboard](https://lookerstudio.
 
 **Regression**<br>
 <div style="text-align: justify">Regression is a statistical method that attempts to determine the strength and character of the relationship between dependent variable (usually denoted by Y) and a series of other variables (known as independent variables). Using House Prices - Advanced Regression Techniques Dataset, regression modeling is carried out with the following steps:</div>
-<div style="text-align: justify">
 1. Exploratory Data Analysis.<br>
 2. Split the dataset into two parts, train and test data.<br>
 3. Create a predictive model with linear regression using train data.<br>
@@ -41,7 +40,6 @@ View in Looker Studio - [COVID-19 Week 5 Global Dashboard](https://lookerstudio.
   
 **Cluster using K-Means CLustering**<br>
 <div style="text-align: justify">K-Means Clustering is an iterative algorithm that tries to partition the dataset into Kpre-defined distinct non-overlapping subgroups (clusters) where each data point belongs to only one group. Using Mall Customers Dataset, clustering is carried out with the following steps:</div>
-<div style="text-align: justify">
 1. Exploratory Data Analysis.<br>
 2. Determining the number of clusters with Elbow method and Silhouette method.<br>
 3. Perform clustering.<br>
