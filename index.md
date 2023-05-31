@@ -19,7 +19,7 @@ The steps that were taken in data cleansing included: <br>
 ### Data Manipulation with Pandas 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1T-sRt7aKbsoKKIsJwLYKDup4Fo8Uf0Zy?usp=sharing)
 
-<div style="text-align: justify">Data manipulation is the process of organizing data to make it more understandable. Data manipulation usually using Pandas library for join, merge, concat, and append the dataset.</div>
+<div style="text-align: justify">Data manipulation is the process of organizing data to make it more understandable. Data manipulation usually using Pandas library for join, merge, concat, and append the dataset. Before performing data visualization, data cleansing is first carried out on the dataset.</div>
 
 <center><img src="images/manipulation.png"/></center>
 <center><img src="images/manipulation1.png"/></center>
@@ -28,10 +28,12 @@ The steps that were taken in data cleansing included: <br>
 ### Data Visualization
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1hFqKijt_imhRAlv6wBZwSQ6unE5S93jh?usp=sharing)
 
-<div style="text-align: justify">Data visualization is the process of organizing data to make it more understandable. Data manipulation usually using Pandas library for join, merge, concat, and append the dataset.</div>
+<div style="text-align: justify">Data visualization is the graphical representation of the data using visual elements like charts, graph, and maps. In this project, there will be visualized as barplot, distribution plot, boxplot, scatterplot, and pie chart using Seaborn and Matplotlib libraries. The data used is Titanic Dataset form Kaggle.</div>
 
-<center><img src="images/manipulation.png"/></center>
-<center><img src="images/manipulation1.png"/></center>
+<center><img src="images/vis.png"/></center>
+<center><img src="images/vis1.png"/></center>
+
+---
 
 ## Machine Learning Visualizations (Data: E-Commerce Shipping Data)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1jvbQlc_fhx_EOKYg9fNLOCRR7C8u1k64)
