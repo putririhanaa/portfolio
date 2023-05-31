@@ -37,7 +37,8 @@ View in Looker Studio - [COVID-19 Week 5 Global Dashboard](https://lookerstudio.
 4. Evaluate the predictive model that are made using R-Squared, Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and Mean Absolute Percentage Error (MAPE).</div>
 
 <center><img src="images/reg.png"/></center>
-  
+<br>
+
 **Cluster using K-Means CLustering**<br>
 <div style="text-align: justify">K-Means Clustering is an iterative algorithm that tries to partition the dataset into Kpre-defined distinct non-overlapping subgroups (clusters) where each data point belongs to only one group. Using Mall Customers Dataset, clustering is carried out with the following steps:</div>
 1. Exploratory Data Analysis.<br>
@@ -46,6 +47,7 @@ View in Looker Studio - [COVID-19 Week 5 Global Dashboard](https://lookerstudio.
 4. Evaluate the cluster that are made using silhouette coefficient, calinski-harabasz index, dan davies-bouldin index.</div>
 
 <center><img src="images/clust.png"/></center>
+<br>
   
 ### Exploratory Data Analysis
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1dsomiD3v92Lq45f4AuxWEu0e_znIVUt2?usp=sharing)
@@ -59,6 +61,7 @@ View in Looker Studio - [COVID-19 Week 5 Global Dashboard](https://lookerstudio.
 
 <center><img src="images/eda1.png"/></center>
 <center><img src="images/eda.png"/></center>
+<br>
 
 ### Statistics with Python
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1jGvL9wOyajXZxuPYNbz0veeWjqxocdSA?usp=sharing)
@@ -67,6 +70,7 @@ View in Looker Studio - [COVID-19 Week 5 Global Dashboard](https://lookerstudio.
 
 <center><img src="images/stat.png"/></center>
 <center><img src="images/stat1.png"/></center>
+<br>
 
 ### Data Visualization
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1hFqKijt_imhRAlv6wBZwSQ6unE5S93jh?usp=sharing)
@@ -75,6 +79,7 @@ View in Looker Studio - [COVID-19 Week 5 Global Dashboard](https://lookerstudio.
 
 <center><img src="images/vis.png"/></center>
 <center><img src="images/vis1.png"/></center>
+<br>
 
 ### Data Manipulation with Pandas 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1T-sRt7aKbsoKKIsJwLYKDup4Fo8Uf0Zy?usp=sharing)
@@ -83,6 +88,7 @@ View in Looker Studio - [COVID-19 Week 5 Global Dashboard](https://lookerstudio.
 
 <center><img src="images/manipulation.png"/></center>
 <center><img src="images/manipulation1.png"/></center>
+<br>
 
 ### Data Cleansing
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1BQXcy_-jjRSzq3VP0VrukQBfotieCet0?usp=sharing)
@@ -97,6 +103,7 @@ The steps that were taken in data cleansing included: <br>
 
 <center><img src="images/cleansing.png"/></center>
 <center><img src="images/cleansing2.png"/></center>
+<br>
 
 ---
 ## Machine Learning Visualizations (Data: E-Commerce Shipping Data)
