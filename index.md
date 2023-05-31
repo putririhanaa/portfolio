@@ -12,7 +12,9 @@ The steps that were taken in data cleansing included<br>
 2. Categorical data encoding, using Label Encoding and Frequently Encoding.<br>
 3. Anomalies and Outliers Handling. In this dataset, no anomalies or outliers were found.</div>
 
-<center><img src="images/machinelearning0.png"/></center>
+<center><img src="images/cleansing.png"/></center>
+<center><img src="images/cleansing1.png"/></center>
+<center><img src="images/cleansing2.png"/></center>
 
 ---
 ### Data Manipulation
