@@ -15,7 +15,6 @@ The steps that were taken in data cleansing included: <br>
 <center><img src="images/cleansing.png"/></center>
 <center><img src="images/cleansing2.png"/></center>
 
----
 ### Data Manipulation with Pandas 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1T-sRt7aKbsoKKIsJwLYKDup4Fo8Uf0Zy?usp=sharing)
 
@@ -24,7 +23,6 @@ The steps that were taken in data cleansing included: <br>
 <center><img src="images/manipulation.png"/></center>
 <center><img src="images/manipulation1.png"/></center>
 
----
 ### Data Visualization
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1hFqKijt_imhRAlv6wBZwSQ6unE5S93jh?usp=sharing)
 
@@ -33,8 +31,15 @@ The steps that were taken in data cleansing included: <br>
 <center><img src="images/vis.png"/></center>
 <center><img src="images/vis1.png"/></center>
 
----
+### Statistics with Python
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1jGvL9wOyajXZxuPYNbz0veeWjqxocdSA?usp=sharing)
 
+<div style="text-align: justify">Statistics in data analytics helps make meaningful conclusion from raw and unstructured data. The conclusion that are made is used to helping businesses make future predictions on the basis of past trend. Using Diabetes dataset, statistical values (such as mean, median, mode, etc) and visualization of the dataset will be perfomed to facilitate decision-making.</div>
+
+<center><img src="images/stat.png"/></center>
+<center><img src="images/stat1.png"/></center>
+
+---
 ## Machine Learning Visualizations (Data: E-Commerce Shipping Data)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1jvbQlc_fhx_EOKYg9fNLOCRR7C8u1k64)
 
