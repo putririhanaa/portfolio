@@ -43,7 +43,6 @@ The steps that were taken in data cleansing included: <br>
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1dsomiD3v92Lq45f4AuxWEu0e_znIVUt2?usp=sharing)
 
 <div style="text-align: justify">Exploratory Data Analysis is the process of describing the data by means of statistical analysis and visualization techniques for deeper analytics in data analytics. Using Telco Customer Churn Dataset, Exploratory Data Analysis is well done with the following steps:</div>
-<div style="text-align: justify"><br>
 1. Data understanding, including data cleansing and data manipulation.<br>
 2. Statistical summary, showing statistical values from dataset.<br>
 3. Univariate analysis for numerical variables by pointing out boxplot, distribution plot, and countplot.<br>
@@ -59,7 +58,6 @@ The steps that were taken in data cleansing included: <br>
 <div style="text-align: justify"><br>
 1. Regression<br>
 <div style="text-align: justify">Regression is a statistical method that attempts to determine the strength and character of the relationship between dependent variable (usually denoted by Y) and a series of other variables (known as independent variables). Using House Prices - Advanced Regression Techniques Dataset, regression modeling is carried out with the following steps:</div>
-<div style="text-align: justify"><br>
 1. Exploratory Data Analysis.<br>
 2. Split the dataset into two parts, train and test data.<br>
 3. Create a predictive model with linear regression using train data.<br>
@@ -69,7 +67,6 @@ The steps that were taken in data cleansing included: <br>
 <div style="text-align: justify"><br>
 2. Cluster using K-Means CLustering<br>
 <div style="text-align: justify">K-Means Clustering is an iterative algorithm that tries to partition the dataset into Kpre-defined distinct non-overlapping subgroups (clusters) where each data point belongs to only one group. Using Mall Customers Dataset, clustering is carried out with the following steps:</div>
-<div style="text-align: justify"><br>
 1. Exploratory Data Analysis.<br>
 2. Determining the number of clusters with Elbow method and Silhouette method.<br>
 3. Perform clustering.<br>
