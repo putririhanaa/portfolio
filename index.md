@@ -20,7 +20,6 @@ View in Looker Studio - [COVID-19 Week 5 Global Dashboard](https://lookerstudio.
 6. Which country is the most profitable for the business?<br>
 7. What is the average rental rate per movie genre (rating)?.<br>
 
-<br>
 <center><img src="images/sql1.png"/></center>
 <center><img src="images/sql.png"/></center>
 
