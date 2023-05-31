@@ -1,5 +1,25 @@
 # Portfolio
 
+## Looker Studio 
+
+---
+## SQL Project
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/putririhanaa/portfolio/blob/master/projects/tugas151617.sql)
+
+<div style="text-align: justify">Structured Query Language (SQL) is a standardized programming language that is used to manage relational databases and perform various operations on the dataset. In this project, the tools and the dataset that used are PostgreSQL and DVD Rental Dataset. By using PostgreSQL, there are some cases that must be solved with SQL query.</div>
+<div style="text-align: justify"><br>
+1. Identify the top 10 customers and their email so we can reward them.<br>
+2. Identify the bottom 10 customers and their emails.<br>
+3. What are the most profitable movie genres (ratings)?<br>
+4. How many rented movies were returned late, early, and on time?<br>
+5. What is the customer base in the countries where we have a presence?<br>
+6. Which country is the most profitable for the business?<br>
+7. What is the average rental rate per movie genre (rating)?.</div>
+
+<center><img src="images/sql.png"/></center>
+<center><img src="images/sql1.png"/></center>
+
+---
 ## Data Analytics with Python 
 ### Data Cleansing
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1BQXcy_-jjRSzq3VP0VrukQBfotieCet0?usp=sharing)
@@ -55,8 +75,10 @@ The steps that were taken in data cleansing included: <br>
 ### Regression and Cluster Modeling
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/10Z6DojAHyRqnBLNAlQgQD0-56Ufv66VN?usp=sharing)
 
+<div style="text-align: justify"> 
 1. Regression<br>
 <div style="text-align: justify">Regression is a statistical method that attempts to determine the strength and character of the relationship between dependent variable (usually denoted by Y) and a series of other variables (known as independent variables). Using House Prices - Advanced Regression Techniques Dataset, regression modeling is carried out with the following steps:</div>
+<div style="text-align: justify">
 1. Exploratory Data Analysis.<br>
 2. Split the dataset into two parts, train and test data.<br>
 3. Create a predictive model with linear regression using train data.<br>
@@ -64,8 +86,10 @@ The steps that were taken in data cleansing included: <br>
   
 <center><img src="images/reg.png"/></center>
   
+<div style="text-align: justify">
 2. Cluster using K-Means CLustering<br>
 <div style="text-align: justify">K-Means Clustering is an iterative algorithm that tries to partition the dataset into Kpre-defined distinct non-overlapping subgroups (clusters) where each data point belongs to only one group. Using Mall Customers Dataset, clustering is carried out with the following steps:</div>
+<div style="text-align: justify">
 1. Exploratory Data Analysis.<br>
 2. Determining the number of clusters with Elbow method and Silhouette method.<br>
 3. Perform clustering.<br>
