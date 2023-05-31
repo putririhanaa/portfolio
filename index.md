@@ -7,20 +7,32 @@
 <div style="text-align: justify">Data cleansing is an essential process for preparing raw data for machine learning (ML) and business inteligence (BI) applications. Data cleansing is the process of fixing or removing incorrect, corrupted, incorrectly formatted, duplicate, or incomplete data within a dataset. In this project, the data used is Telco Customer Churn Dataset from Kaggle.</div>
 
 <div style="text-align: justify"><br>
-The steps that were taken in data cleansing included<br>
+The steps that were taken in data cleansing included: <br>
 1. Missing value checking and handling, using fill method with median value.<br>
 2. Categorical data encoding, using Label Encoding and Frequently Encoding.<br>
 3. Anomalies and Outliers Handling. In this dataset, no anomalies or outliers were found.</div>
 
 <center><img src="images/cleansing.png"/></center>
-<center><img src="images/cleansing1.png"/></center>
 <center><img src="images/cleansing2.png"/></center>
 
 ---
-### Data Manipulation
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1BQXcy_-jjRSzq3VP0VrukQBfotieCet0?usp=sharing)
+### Data Manipulation with Pandas 
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1T-sRt7aKbsoKKIsJwLYKDup4Fo8Uf0Zy?usp=sharing)
+
+<div style="text-align: justify">Data manipulation is the process of organizing data to make it more understandable. Data manipulation usually using Pandas library for join, merge, concat, and append the dataset.</div>
+
+<center><img src="images/manipulation.png"/></center>
+<center><img src="images/manipulation1.png"/></center>
 
 ---
+### Data Visualization
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1hFqKijt_imhRAlv6wBZwSQ6unE5S93jh?usp=sharing)
+
+<div style="text-align: justify">Data visualization is the process of organizing data to make it more understandable. Data manipulation usually using Pandas library for join, merge, concat, and append the dataset.</div>
+
+<center><img src="images/manipulation.png"/></center>
+<center><img src="images/manipulation1.png"/></center>
+
 ## Machine Learning Visualizations (Data: E-Commerce Shipping Data)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1jvbQlc_fhx_EOKYg9fNLOCRR7C8u1k64)
 
