@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Dashboard - Looker Studio Project 
-**Data: COVID-19 Week 5 Global Dataset **
+**Data: COVID-19 Week 5 Global Dataset** 
 <br>
 View in Looker Studio - [COVID-19 Week 5 Global Dashboard](https://lookerstudio.google.com/reporting/6afcc4b6-6558-4a70-ba96-eb3f29c31d79)
 
